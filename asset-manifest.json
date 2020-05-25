@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/store/static/css/main.18afa171.chunk.css",
-    "main.js": "/store/static/js/main.acb11768.chunk.js",
-    "main.js.map": "/store/static/js/main.acb11768.chunk.js.map",
+    "main.css": "/store/static/css/main.c7c20808.chunk.css",
+    "main.js": "/store/static/js/main.ebfeae9d.chunk.js",
+    "main.js.map": "/store/static/js/main.ebfeae9d.chunk.js.map",
     "runtime-main.js": "/store/static/js/runtime-main.19bc2dcc.js",
     "runtime-main.js.map": "/store/static/js/runtime-main.19bc2dcc.js.map",
     "static/css/2.86df01db.chunk.css": "/store/static/css/2.86df01db.chunk.css",
-    "static/js/2.6ed6d79d.chunk.js": "/store/static/js/2.6ed6d79d.chunk.js",
-    "static/js/2.6ed6d79d.chunk.js.map": "/store/static/js/2.6ed6d79d.chunk.js.map",
+    "static/js/2.43897679.chunk.js": "/store/static/js/2.43897679.chunk.js",
+    "static/js/2.43897679.chunk.js.map": "/store/static/js/2.43897679.chunk.js.map",
     "index.html": "/store/index.html",
-    "precache-manifest.a2b8e82127990be942fcf41a13a84464.js": "/store/precache-manifest.a2b8e82127990be942fcf41a13a84464.js",
+    "precache-manifest.d51d20d6bf7f3c36ac6cae14acd2a982.js": "/store/precache-manifest.d51d20d6bf7f3c36ac6cae14acd2a982.js",
     "service-worker.js": "/store/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/store/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.18afa171.chunk.css.map": "/store/static/css/main.18afa171.chunk.css.map",
-    "static/js/2.6ed6d79d.chunk.js.LICENSE.txt": "/store/static/js/2.6ed6d79d.chunk.js.LICENSE.txt",
+    "static/css/main.c7c20808.chunk.css.map": "/store/static/css/main.c7c20808.chunk.css.map",
+    "static/js/2.43897679.chunk.js.LICENSE.txt": "/store/static/js/2.43897679.chunk.js.LICENSE.txt",
+    "static/media/card1.jpg": "/store/static/media/card1.63b06361.jpg",
+    "static/media/card2.jpg": "/store/static/media/card2.cb4f6097.jpg",
+    "static/media/card3.jpg": "/store/static/media/card3.29b9c17e.jpg",
+    "static/media/card4.jpg": "/store/static/media/card4.af36d5a2.jpg",
+    "static/media/card5.jpg": "/store/static/media/card5.caca8cc9.jpg",
+    "static/media/card6.jpg": "/store/static/media/card6.54f28344.jpg",
     "static/media/tovar1.jpg": "/store/static/media/tovar1.6f50224b.jpg",
     "static/media/tovar2.jpg": "/store/static/media/tovar2.e4074b24.jpg",
     "static/media/tovar3.jpg": "/store/static/media/tovar3.2fb4f3ae.jpg",
@@ -25,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.19bc2dcc.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.6ed6d79d.chunk.js",
-    "static/css/main.18afa171.chunk.css",
-    "static/js/main.acb11768.chunk.js"
+    "static/js/2.43897679.chunk.js",
+    "static/css/main.c7c20808.chunk.css",
+    "static/js/main.ebfeae9d.chunk.js"
   ]
 }
