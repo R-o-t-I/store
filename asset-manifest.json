@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.css": "/store/static/css/main.981f7211.chunk.css",
-    "main.js": "/store/static/js/main.caff2634.chunk.js",
-    "main.js.map": "/store/static/js/main.caff2634.chunk.js.map",
+    "main.css": "/store/static/css/main.04bb4241.chunk.css",
+    "main.js": "/store/static/js/main.1397395b.chunk.js",
+    "main.js.map": "/store/static/js/main.1397395b.chunk.js.map",
     "runtime-main.js": "/store/static/js/runtime-main.19bc2dcc.js",
     "runtime-main.js.map": "/store/static/js/runtime-main.19bc2dcc.js.map",
     "static/css/2.86df01db.chunk.css": "/store/static/css/2.86df01db.chunk.css",
-    "static/js/2.5c69f0b9.chunk.js": "/store/static/js/2.5c69f0b9.chunk.js",
-    "static/js/2.5c69f0b9.chunk.js.map": "/store/static/js/2.5c69f0b9.chunk.js.map",
+    "static/js/2.8ee3e328.chunk.js": "/store/static/js/2.8ee3e328.chunk.js",
+    "static/js/2.8ee3e328.chunk.js.map": "/store/static/js/2.8ee3e328.chunk.js.map",
     "index.html": "/store/index.html",
-    "precache-manifest.5fbc79a4f12463d1be64b2dfabada9a6.js": "/store/precache-manifest.5fbc79a4f12463d1be64b2dfabada9a6.js",
+    "precache-manifest.ecf2e967ac1c2954a8d3fa3e28fd50f5.js": "/store/precache-manifest.ecf2e967ac1c2954a8d3fa3e28fd50f5.js",
     "service-worker.js": "/store/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/store/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/store/static/css/main.981f7211.chunk.css.map",
-    "static/js/2.5c69f0b9.chunk.js.LICENSE.txt": "/store/static/js/2.5c69f0b9.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "/store/static/media/persik.4e1ec840.png"
+    "static/css/main.04bb4241.chunk.css.map": "/store/static/css/main.04bb4241.chunk.css.map",
+    "static/js/2.8ee3e328.chunk.js.LICENSE.txt": "/store/static/js/2.8ee3e328.chunk.js.LICENSE.txt",
+    "static/media/tovar1.jpg": "/store/static/media/tovar1.6f50224b.jpg",
+    "static/media/tovar2.jpg": "/store/static/media/tovar2.e4074b24.jpg",
+    "static/media/tovar3.jpg": "/store/static/media/tovar3.2fb4f3ae.jpg",
+    "static/media/tovar4.jpg": "/store/static/media/tovar4.71f4d5e3.jpg",
+    "static/media/tovar5.jpg": "/store/static/media/tovar5.94e0b4e1.jpg",
+    "static/media/tovar6.jpg": "/store/static/media/tovar6.69459d7e.jpg",
+    "static/media/tovar6_2.jpg": "/store/static/media/tovar6_2.342ef2c2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.19bc2dcc.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.5c69f0b9.chunk.js",
-    "static/css/main.981f7211.chunk.css",
-    "static/js/main.caff2634.chunk.js"
+    "static/js/2.8ee3e328.chunk.js",
+    "static/css/main.04bb4241.chunk.css",
+    "static/js/main.1397395b.chunk.js"
   ]
 }
