@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ccee999e704d803b705eeb0ea08f2f7",
+    "revision": "d2fbe7bbe93b2e7130498287ed19282d",
     "url": "/store/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/store/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "ce72b52c28cc9a1d7ae3",
+    "revision": "fc198cec793058a8568b",
     "url": "/store/static/css/main.618e7b53.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/store/static/js/2.2c28dbc5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce72b52c28cc9a1d7ae3",
-    "url": "/store/static/js/main.3089d7d6.chunk.js"
+    "revision": "fc198cec793058a8568b",
+    "url": "/store/static/js/main.006e7897.chunk.js"
   },
   {
     "revision": "00870d63df9e85a5860f",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/store/static/media/card_3.f32ef346.jpg"
   },
   {
-    "revision": "6b8434cda5fb3ae2b52178ff8d58ac1c",
-    "url": "/store/static/media/tovar_1.6b8434cd.jpg"
+    "revision": "92af2e1195101fa77940a35d18bd12ae",
+    "url": "/store/static/media/tovar_1.92af2e11.jpg"
   },
   {
     "revision": "e13ae559588c1a6b51346ee19d6cb6be",
